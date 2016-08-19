@@ -22,7 +22,7 @@ import java.io.InputStream;
 import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
-
+    //k
     public int width =640  , height=480;
     ImageView img;
     static String Image_URL = "http://apps1.defenselabs.org/iff/images/";
